@@ -1,0 +1,68 @@
+
+@import 'abstract/functions';
+@import 'abstract/mixin';
+@import 'abstract/variables';
+
+@import 'base/animations';
+@import 'base/base';
+@import 'base/typography';
+@import 'base/utilities';
+
+@import 'components/bg-video';
+@import 'components/button';
+@import 'components/card';
+@import 'components/composition';
+@import 'components/feature-box';
+@import 'components/form';
+@import 'components/story';
+
+@import 'layout/header';
+@import 'layout/grid';
+
+@import 'pages/home';
+
+
+
+
+
+
+// @keyframes moveInLeft{
+//     0%{
+//         opacity: 0;
+//         transform: translateX(-100px);
+//     }
+//     100%{
+//         opacity: 1;
+//         transform: translateX(0px);
+//     }
+// }
+// @keyframes moveInRight{
+//     0%{
+//         opacity: 0;
+//         transform: translateX(100px);
+//     }
+//     100%{
+//         opacity: 1;
+//         transform: translateX(0px);
+//     }
+// }
+// @keyframes moveInBottom{
+//     0%{
+//         opacity: 0;
+//         transform: translateY(100px);
+//     }
+//     100%{
+//         opacity: 1;
+//         transform: translateY(0px);
+//     }
+// }
+// @keyframes moveInTop{
+//     0%{
+//         opacity: 0;
+//         transform: translateY(-100px);
+//     }
+//     100%{
+//         opacity: 1;
+//         transform: translateY(0px);
+//     }
+// }
